@@ -1,0 +1,16 @@
+{
+  "name": "codescan",
+  "version": "1.0",
+  "description": "scan for vulns",
+  "author": "DC",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/din-eshch/codescan"
+  },
+  "devDependencies": {
+    "docker-py": "^1.10.6",
+    "docker-sdk": "^3.5.0",
+    "gitpython": "^2.1.11",
+  }
+}
