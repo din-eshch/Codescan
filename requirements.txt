@@ -21,7 +21,7 @@ pbr==4.2.0
 pep8==1.7.1
 pycodestyle==2.4.0
 pylint==1.9.3
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 singledispatch==3.4.0.3
 six==1.11.0
