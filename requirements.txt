@@ -29,6 +29,6 @@ smmap2==2.0.4
 stevedore==1.29.0
 truffleHog==2.0.96
 truffleHogRegexes==0.0.4
-urllib3==1.23
+urllib3==1.26.5
 websocket-client==0.53.0
 wrapt==1.10.11
